@@ -1,0 +1,91 @@
+.logo-docplanner {
+  border-bottom-color:rgb(61, 131, 223);
+  border-bottom-style:none;
+  border-bottom-width:0px;
+  border-image-outset: 0px;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  box-sizing: border-box;
+  color: rgb(61, 131, 223);
+  cursor: pointer;
+  font-size: 34px;
+  font-weight: 300;
+  height: 33px;
+  width: 193px;
+    
+}
+
+.about-us-button {
+  background-color: rgba(0, 0, 0, 0);
+  box-sizing: border-box;
+color: gray;
+cursor: pointer;
+display: block;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+font-weight: 400px;
+line-height: 30px;
+outline-color: gray;
+padding-left: 9px;
+padding-top: 0px;
+padding-right: 9px;
+padding-bottom: 0px;
+text-align: left;
+text-decoration-line: none;
+text-decoration-style: solid;
+transition-duration: 0.2s;
+transition: opacity 0.5s;
+
+
+
+}
+.about-us-button:hover {
+ opacity: 0.7;  
+ color: rgb(0, 179, 155); 
+
+}
+
+.career-button {
+  background-color: rgb(255,255,255);
+color: blue;
+border-color:blue;
+border-style: solid;
+height: 36px;
+width: 80px;
+border-radius: 10px;
+cursor: pointer;
+transition: backround-color 1s, color 1s , box-shadow 0.15s;
+
+}
+.career-button:hover {
+  background-color:blue ;
+    color: white;
+    box-shadow: 5px 5px 0 rgba(0, 0, 0, 0.15);
+
+
+}
+.career-button:active {
+
+  opacity: 0.6;}
+  p {
+                font-family: Araial;
+                margin-bottom: 5px;
+                margin-top: 0px;
+              }
+
+.introduction {
+
+font-weight: bold;
+font-size: 18px;
+width: 300px;
+line-height: 26px;
+color: gray;
+
+}
+.introduction-2 {
+font-weight: bold;
+font-size: 18px;
+width: 300px;
+line-height: 26px;
+color: gray;
+}
